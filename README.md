@@ -22,5 +22,5 @@
 <br>
 
 <div align="center">
-			 <a href="https://mayconcabral077.github.io/soundcard/">Acesse o projeto aqui</a> 🤟
+			 <a href="https://mayconcabral077.github.io/Sound-card//">Acesse o projeto aqui</a> 🤟
 </div>
